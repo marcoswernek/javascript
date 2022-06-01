@@ -1,16 +1,19 @@
-body{
-    background-color: rgb(35, 155, 155);
+ *{
+     margin: 0;
+     padding:0;
+ }
+ body{
     font: normal 18pt arial;
-    color: rgb(218, 26, 26);
+    color: black;
 }
 
 header{
-    color: rgb(129, 185, 137);
+    color: rgb(36, 92, 44);
     text-align: center;
 }
 
 section{
-    background-color: rgba(208, 231, 247, 0.603);
+    background-color: rgba(199, 210, 218, 0.603);
     border-radius: 10px;
     padding:15px;
     width:650px;
@@ -20,10 +23,10 @@ section{
 div {
     text-align: center;
     padding: 8px;
-
 }
 footer{
-    color: rgb(18, 26, 32);
+    color: rgb(34, 64, 87);
     text-align: center;
     font-style: normal;
+    padding: 35px;
 }
