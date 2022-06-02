@@ -1,0 +1,36 @@
+body{
+    background-color:#275950;
+    font: normal 15pt arial;
+}
+#conteiner{
+    display:flex;
+    float: none;
+}
+header{
+    font-family: serif;
+    color:white;
+    text-align: center;
+}
+img {
+    max-width:100%;
+}
+section{
+    background-color:#2A8C82;
+    border-radius: 10px;
+    padding:15px;
+    width:450px;
+    height:auto;
+    margin:auto;
+    box-shadow: 3px 3px 10px black;
+}
+div#res{
+    color: white;
+    background-color: #260101;
+}
+footer{
+    background-color: #260101;
+    color: white;
+    text-align: center;
+    font-style: normal;
+    border-radius:2px;
+}
