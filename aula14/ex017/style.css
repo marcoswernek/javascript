@@ -1,0 +1,36 @@
+
+ body{
+     background-color: mediumseagreen;
+    font: normal 18pt arial;
+    color: black;
+}
+
+header{
+    color: rgb(235, 243, 236);
+    text-align: center;
+}
+
+section{
+    background-color: rgba(14, 38, 54, 0.603);
+    border-radius: 10px;
+    padding:15px;
+    width:500px;
+    margin: auto;
+    box-shadow: 3px 3px 3px black;
+}
+div {
+    text-align: center;
+    padding: 8px;
+}
+div#res{
+    color: chartreuse;
+}
+select{
+    overflow: hidden;
+    background-color: aquamarine;
+}
+footer{
+    color: rgb(34, 64, 87);
+    text-align: center;
+    font-style:normal;
+}
