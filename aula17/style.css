@@ -1,0 +1,36 @@
+
+ body{
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    font: normal 18pt arial;
+    color: rgb(4, 3, 19);
+}
+
+header{
+    color: rgb(3, 1, 12);
+    text-align: center;
+}
+
+section{
+    background-image: linear-gradient(-225deg, #473B7B 0%, #3584A7 51%, #30D2BE 100%);
+    border-radius: 10px;
+    padding:15px;
+    width:500px;
+    margin: auto;
+    box-shadow: 3px 3px 3px black;
+}
+div {
+    text-align: center;
+    padding: 8px;
+}
+select{
+    width: 150px;
+    
+}
+div#res{
+    color:rgb(0, 0, 0);
+}
+footer{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-style:normal;
+}
